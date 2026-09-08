@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Collab-Secondtry"
+  title: "Collab-website"
   navbar:
     left:
       - href: index.qmd
